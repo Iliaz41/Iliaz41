@@ -1,6 +1,5 @@
 ### Hi everyone, I'm Ilya 👋
 
-- 🌱 I’m currently learning C# and .NET Core
 - 💬 Ask me about my experience
 - 📫 How to reach me: ilyaposudnevsky@gmail.com
 - ⚡ Fun fact: I like delicious food :-)
